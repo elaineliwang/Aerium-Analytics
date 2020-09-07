@@ -1,1 +1,1 @@
-# Aerium-Analytics
+# Aerium-Analytics Computer Vision project
